@@ -31,5 +31,7 @@ for more information on the API that are useful in the project.
 ![Screenshot 2023-10-01 at 14.39.57.png](..%2F..%2FDesktop%2FScreenshot%202023-10-01%20at%2014.39.57.png)
 
 ### Example Output of Running Java Code
+![image](https://github.com/cor1nnama/CSC207-Group-Project/assets/144290310/d7d1844b-3aa0-414d-bbf1-881611a72eae)
+
 
 ### List of Technical Problems
